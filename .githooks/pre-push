@@ -1,0 +1,6 @@
+#!/bin/sh
+# Inspect committed snapshots, including intermediate commits in this push.
+set -eu
+
+python scripts/check-public-files.py --pre-push --remote "$1"
+python scripts/check-referral-links.py
