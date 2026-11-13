@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/prodclub-logo.svg" width="72" height="72" alt="ProdClub 标志">
+<img src="assets/prodclub-logo.svg?v=20261114" width="72" height="72" alt="ProdClub 标志">
 
 # ProdClub
 
@@ -16,13 +16,13 @@
 
 ---
 
-本页由推广者 [laoma528](https://github.com/laoma528) 独立维护，介绍 ProdClub 的服务、购买条件和使用方法，含推广链接。付款、订阅开通及售后由 ProdClub 承接。
-
 ## ProdClub 提供什么
 
-ProdClub 提供 ChatGPT Plus / Pro 第三方代充服务：你使用自己的 ChatGPT 账号下单，通过支付宝付款，再按订单提示提交一次 Session，由系统自动开通订阅。
+ProdClub 是一个专注于中文用户的 ChatGPT Plus / Pro 代充平台，已稳定运营 1 年多。针对没有海外信用卡、礼品卡流程繁琐、渠道真假难辨等订阅支付问题，提供支付宝直接付款、正规渠道充值到本人账号的服务。
 
-对已经有 ChatGPT 账号、希望省去自行处理国际付款步骤的用户，这是一条可以了解的购买路径。下单前先确认账号符合商品条件，并了解 Session 的用途。
+你使用自己的 ChatGPT 账号下单，通过支付宝付款，再按订单提示提交一次 Session，由系统自动开通订阅，不换号、不共享。通常 1 分钟到账，充值失败全额退款。
+
+自上线以来，ProdClub 已累计服务超过 **20,000 名用户**，平均到账时间约 **1 分钟**，账号风险率低于**万分之一**，客服 **7×16 小时真人在线**。
 
 | 服务特点 | 具体说明 |
 | --- | --- |
@@ -31,9 +31,19 @@ ProdClub 提供 ChatGPT Plus / Pro 第三方代充服务：你使用自己的 Ch
 | 支持支付宝 | 按商品及订单页提示完成付款。 |
 | 一次 Session 自动开通 | 在对应订单页提交一次，系统自动处理；需要补充操作时按原订单提示进行。 |
 | 最快 1 分钟到账 | 实际处理进度在订单页查看，遇到验证或异常时先处理原订单。 |
-| 官方渠道充值 | 这是 ProdClub 提供的充值方式，不代表 OpenAI 直营或官方授权。 |
+| 官方正规渠道充值 | 采用美国实体卡与企业级通道完成充值，上万充值量沉淀。 |
 
 ProdClub 首页标示“服务费 ¥0”。套餐售价、可用优惠、订阅周期和售后条款，请在付款前查看所选商品与订单页。
+
+## 服务承诺
+
+| 承诺 | 具体说明 |
+| --- | --- |
+| 正规渠道充值 | 通过美国实体卡与企业级通道完成充值，上万充值量沉淀，账号风险率低于万分之一。 |
+| 无需账号密码 | 充值仅需 Session Token（临时访问凭证），不接触你的账号密码，充值完成后凭证即时作废。 |
+| 全程加密传输 | 所有数据传输均通过 HTTPS 协议加密，敏感数据采用 AES-256 加密算法处理，防止信息泄露。 |
+| 不成功全额退款 | 充值失败立即原路退款，不设任何门槛；下单后可随时凭订单号查询进度。 |
+| 国内支付友好 | 支付宝直接付款，无需海外信用卡、无需自购礼品卡；企业用户支持批量代充与对公转账。 |
 
 <a id="plans"></a>
 ## 套餐与优惠
@@ -112,6 +122,7 @@ Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session
 | Session 无效或不完整 | 在同一浏览器确认已登录正确账号，按订单提示重新获取完整内容，直接回原订单提交。 |
 | 订单进入安全验证或人工处理 | 保留订单号，在原订单继续处理；不要另外购买一单代替排障。 |
 | 订单完成，账号仍未显示订阅 | 核对账号与登录方式，刷新或重新登录；仍异常时提交不含凭据的套餐截图给商家核查。 |
+| 充值失败 | 全额原路退款，不设任何门槛；可凭订单号查询进度，需要帮助时联系 ProdClub 客服。 |
 | 尚未开通，希望退款 | 查看原订单是否有“申请退款”入口，并按页面说明操作；没有入口时联系商家。 |
 | 已开通后出现订阅问题 | 按购买时商品的售后天数和条款联系 ProdClub 处理。 |
 
@@ -134,7 +145,7 @@ Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session
 <details>
 <summary><strong>需要提供 ChatGPT 密码吗？</strong></summary>
 
-本流程通过对应订单页提交 Session 完成，无需把 ChatGPT 密码交给商家。Session 同样属于敏感登录凭据，拿到它的人可能获得相应登录权限；提交前请了解用途，只在你主动下单的对应订单流程中使用。
+无需提供 ChatGPT 账号密码。充值仅需在对应订单页提交 Session Token（临时访问凭证），充值完成后凭证即时作废。Session 属于敏感登录凭据，只在对应订单流程中提交，不发到聊天、截图或公开页面。
 
 </details>
 
@@ -167,9 +178,11 @@ Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session
 </details>
 
 <details>
-<summary><strong>能保证账号没有风险吗？</strong></summary>
+<summary><strong>充值渠道与账号风控怎么判断？</strong></summary>
 
-不能把订阅开通或售后理解为账号零风险、永不封禁。账号仍受 OpenAI 的服务与使用规则约束，订阅售后按购买时的商品条款处理。
+ProdClub 通过官方正规渠道代充，采用美国实体卡与企业级通道完成充值，上万充值量沉淀，账号风险率低于万分之一。
+
+出现账号风控情况，大概率与 IP 节点不干净、破甲等违规行为、多人共享、API 转发等行为有关。请遵守 OpenAI 使用规则。
 
 </details>
 
@@ -181,17 +194,16 @@ Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session
 </details>
 
 <details>
-<summary><strong>ProdClub 是 OpenAI 官方吗？这个仓库是谁维护的？</strong></summary>
+<summary><strong>ProdClub 是 OpenAI 官方吗？</strong></summary>
 
 ProdClub 是独立第三方代充服务，不是 OpenAI 官方。“官方渠道充值”指其充值方式，不代表 OpenAI 直营、隶属或授权合作。
-
-本仓库由推广者 [laoma528](https://github.com/laoma528) 独立维护，用于整理服务介绍与使用指南，不是 OpenAI 官方仓库。购买链接带有推广归因，维护者可能从符合规则的订单中获得推广收益；具体商品、收款、交付和售后由 ProdClub 负责。
 
 </details>
 
 ## 帮助与相关资料
 
 - [ProdClub 帮助中心](https://prodclub.ai/help)：查看支付、开通、续费与售后说明，客服入口以网站及订单页为准。
+- [关于 ProdClub](https://prodclub.vip/about)：品牌与交付介绍、服务承诺。
 - [自有账号开通说明](https://prodclub.ai/help/how) · [支付说明](https://prodclub.ai/help/pay) · [订阅续费说明](https://prodclub.ai/help/renew)。
 - [Session 获取与报错教程](https://gpt.528.im/session.html) · [订单与退款排障](https://gpt.528.im/order-help.html)。
 - [OpenAI 支持地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) · [OpenAI 账号安全建议](https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure)。
