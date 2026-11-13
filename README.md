@@ -4,7 +4,7 @@
 
 # ProdClub 使用指南｜ChatGPT Plus / Pro 代充、优惠码与常见问题
 
-<p>继续使用自己的 ChatGPT 账号，不换号、不共享。<br>支持支付宝，提交一次 Session 自动开通，最快 1 分钟到账。</p>
+<p>ProdClub 提供 ChatGPT Plus / Pro 第三方代充，支持支付宝，开通到你自己的账号，不换号、不共享。<br>选购商品并付款后，在原订单提交一次 Session，系统自动开通，最快 1 分钟到账。价格、周期和账号条件以所选商品与订单页为准。</p>
 
 **[查看套餐与下单](https://prodclub.ai/r/NJJU47?src=pcgithub)** · [优惠码怎么用](#plans) · [先看开通条件](#account-check) · [下单步骤](#purchase) · [订单与售后](#support) · [常见问题](#faq)
 
