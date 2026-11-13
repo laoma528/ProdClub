@@ -27,7 +27,7 @@ ProdClub 是一个专注于中文用户的 ChatGPT Plus / Pro 代充平台，已
 
 **优惠码：`NJJU47`。** 根据你打开网站的方式使用：
 
-- 从本页进入：使用下方“查看当前套餐与优惠”入口。
+- 从本页进入：**[查看当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)**。
 - 已从搜索、书签或其他页面进入：下单时手动填写 **`NJJU47`**。
 
 付款前核对订单中的优惠码、实际优惠和最终应付金额。页面上的原价、其他身份报价或历史截图，都不能代替你这张订单的实付金额。
@@ -40,8 +40,6 @@ ProdClub 是一个专注于中文用户的 ChatGPT Plus / Pro 代充平台，已
 | ChatGPT Pro | 确认具体档位、周期及账号资格；已有 Plus 或 Pro 的情况，先看下方条件。 |
 
 ProdClub 首页标示“服务费 ¥0”。套餐售价、订阅周期和售后条款，请在付款前查看所选商品与订单页。
-
-**[前往 ProdClub 查看当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)**
 
 <a id="account-check"></a>
 ## 先确认账号能否开通
