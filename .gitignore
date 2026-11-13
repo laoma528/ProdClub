@@ -1,0 +1,8 @@
+# Only reviewed public files may be added to this repository.
+*
+!/.gitignore
+!/.gitattributes
+!/.public-files
+!/README.md
+!/assets/
+!/assets/prodclub-logo.svg

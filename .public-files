@@ -1,0 +1,6 @@
+# Reviewed public files. Review every new path before publishing.
+.gitattributes
+.gitignore
+.public-files
+README.md
+assets/prodclub-logo.svg
