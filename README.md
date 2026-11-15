@@ -34,5 +34,5 @@ python scripts/seo-geo/submit-indexnow.py --sitemap
 根路径 `llms.txt` 提供品牌与服务页面内容索引；它是辅助约定，不替代 robots、站点地图或实际索引验收。内容日期取自真实 Git 正文变更，继续用于 README 与站点地图；品牌官网页面不再显示末尾日期。当前总价、周期、续费与客服信息请通过原商品及订单页面查看。
 
 <!-- content-updated:start -->
-内容更新：2026年11月13日
+内容更新：2026年11月15日
 <!-- content-updated:end -->
