@@ -2,7 +2,7 @@
 
 <img src="assets/prodclub-logo.svg?v=20261114" width="72" height="72" alt="ProdClub 标志">
 
-# ProdClub 使用指南｜ChatGPT Plus / Pro 代充、优惠码与常见问题
+# ProdClub｜ChatGPT Plus/Pro国内代充值、ProdClub优惠码与常见问题
 
 <p>ProdClub 提供 ChatGPT Plus / Pro 第三方代充，支付宝/USDT付款，开通到你自己的账号，不换号、不共享。<br>选购商品并付款后，在原订单提交一次 Session，系统自动开通，最快 1 分钟到账。</p>
 
@@ -32,7 +32,7 @@ ProdClub 是一个专注于中文用户的 ChatGPT Plus / Pro 代充平台，已
 - 【推荐】直接进入：**[查看当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)**。
 - 已从搜索、书签或其他页面进入：下单时手动填写优惠码 **`NJJU47`**。
 
-付款前核对订单中的优惠码、实际优惠和最终应付金额。页面上的原价、其他身份报价或历史截图，都不能代替你这张订单的实付金额。
+付款前核对订单中的优惠码、实际优惠和最终应付金额。
 
 ### 选择需要的套餐
 
@@ -200,6 +200,9 @@ ProdClub 是独立第三方代充服务，不是 OpenAI 官方。“官方渠道
 </details>
 
 ## 帮助与相关资料
+
+- **ProdClub充值站：**[prodclub.ai](https://prodclub.ai/r/NJJU47?src=pcgithub)
+- **ProdClub产品站：**[prodclub.vip](https://prodclub.vip)
 
 - [开通条件](#account-check) · [下单与支付宝付款](#purchase) · [订单与售后](#support)：先按本页说明处理；真实订单问题回原订单及其中的 ProdClub 客服入口。
 - [关于 ProdClub](https://prodclub.vip/about)：品牌与交付介绍、服务承诺。
