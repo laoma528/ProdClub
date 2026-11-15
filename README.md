@@ -215,5 +215,5 @@ ProdClub 是独立第三方代充服务，不是 OpenAI 官方。“官方渠道
 **[查看 ProdClub 当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)** · 优惠码 **`NJJU47`**
 
 <!-- content-updated:start -->
-内容更新：2026年11月14日
+内容更新：2026年11月15日
 <!-- content-updated:end -->
