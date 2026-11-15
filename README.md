@@ -202,7 +202,7 @@ ProdClub 是独立第三方代充服务，不是 OpenAI 官方。“官方渠道
 ## 帮助与相关资料
 
 - **ProdClub充值站：**[prodclub.ai](https://prodclub.ai/r/NJJU47?src=pcgithub)
-- **ProdClub产品站：**[prodclub.vip](https://prodclub.vip)
+- **ProdClub品牌站：**[prodclub.vip](https://prodclub.vip)
 
 - [开通条件](#account-check) · [下单与支付宝付款](#purchase) · [订单与售后](#support)：先按本页说明处理；真实订单问题回原订单及其中的 ProdClub 客服入口。
 - [关于 ProdClub](https://prodclub.vip/about)：品牌与交付介绍、服务承诺。
