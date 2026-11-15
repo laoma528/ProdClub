@@ -20,3 +20,7 @@
 @media(max-width:359px){.hero-copy h1{font-size:28px}.hero-copy .button{padding-inline:14px;font-size:12px}.hero-checks{gap:6px;font-size:10px}.window-main{padding:20px 16px}.window-title p{font-size:14px}.window-bar{padding-inline:12px;font-size:9px}.window-note{font-size:8px}.metrics-grid dd{font-size:26px}.footer-column>a{font-size:11px}}
 .logo-track{width:max-content;padding:0;animation:logo-scroll 32s linear infinite}.logo-group{display:flex;align-items:center;gap:36px;flex:none}.logo-marquee:hover .logo-track{animation-play-state:paused}@keyframes logo-scroll{to{transform:translateX(calc(-50% - 18px))}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+
+/* Customer marks and illustrated review avatars. */
+.customer-logo{display:inline-flex;align-items:center;justify-content:center;flex:none;height:44px}.customer-logo img{display:block;width:auto;height:auto;max-width:180px;max-height:34px;object-fit:contain}.quote-avatar{display:block;width:32px;height:32px;border-radius:50%;flex:none;background:#eaf3ed}.quote-placeholder>p{font-size:16px;line-height:1.7}.voices-controls{display:flex;align-items:center;justify-content:space-between;gap:16px}.voices-note{margin:14px 0 0;color:var(--muted);font-size:12px;line-height:1.5}
+@media(max-width:760px){.customer-logo{height:40px}.customer-logo img{max-height:30px}.voices-controls{display:block}.voices-note{font-size:11px}.quote-placeholder>p{font-size:16px}}
