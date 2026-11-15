@@ -22,6 +22,7 @@
 !/docs/_headers
 !/docs/about.html
 !/docs/assets/
+!/docs/assets/fonts/
 !/docs/assets/site.js
 !/docs/assets/style.css
 !/docs/before-purchase.html
@@ -42,3 +43,18 @@
 !/docs/assets/prodclub-logo.svg
 !/docs/70cc308f06195be856cf5971bf54d45b.txt
 !/docs/assets/analytics.js
+
+!/docs/assets/fonts/inter-latin.woff2
+!/docs/assets/fonts/lxgw-zhenkai-hero.woff2
+!/docs/assets/fonts/inter-OFL.txt
+!/docs/assets/fonts/lxgw-zhenkai-OFL.txt
+
+!/docs/assets/motion.css
+!/docs/assets/screenshots.css
+!/docs/assets/screenshots/recharge-home.png
+!/docs/assets/screenshots/choose-and-pay.png
+!/docs/assets/screenshots/submit-session.png
+!/docs/assets/screenshots/subscription-active.png
+!/docs/assets/screenshots/
+
+!/docs/llms.txt

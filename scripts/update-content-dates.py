@@ -209,15 +209,9 @@ def format_date(stamp: datetime) -> tuple[str, str]:
 
 
 def html_with_date(text: str, stamp: datetime) -> str:
-    clean = strip_html_date(text)
-    closings = list(re.finditer(r"</main\s*>", clean, re.I))
-    if len(closings) != 1:
-        raise DateError("Cannot locate a unique article ending.")
-    newline = "\r\n" if "\r\n" in text else "\n"
-    iso, visible = format_date(stamp)
-    block = f'  <p class="content-updated" data-content-updated>内容更新：<time datetime="{iso}">{visible}</time></p>'
-    split = closings[0].start()
-    return clean[:split].rstrip("\r\n") + newline + block + newline + clean[split:]
+    # The brand website no longer displays a visible content date.
+    # Keep legacy-date removal; real Git dates still drive the sitemap.
+    return strip_html_date(text)
 
 
 def readme_with_date(text: str, stamp: datetime) -> str:

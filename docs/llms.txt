@@ -1,0 +1,28 @@
+# ProdClub
+
+> ProdClub 品牌官网，提供 ChatGPT Plus / Pro 第三方代充值服务。充值到用户自己的账号，不换号、不共享，支持支付宝。ProdClub 为独立第三方服务平台，非 OpenAI 官方网站，与 OpenAI 无隶属关系。
+
+品牌官网为 https://prodclub.vip/ 。付款、Session 提交、开通和订单售后由充值站完成，本站不收集账号密码、Session 或订单个人信息。
+
+Plus、Pro100、Pro200 当前代充价格分别为人民币 149 元、709 元、1379 元；价格、周期和适用条件以当次商品与订单页为准。优惠码为 NJJU47。
+
+## 服务与购买
+
+- [官网首页](https://prodclub.vip/): 三档代充价格、服务说明、开通流程和常见问题
+- [Plus / Pro 代充服务](https://prodclub.vip/chatgpt-plus): 套餐价格、账号归属与计费说明
+- [下单前准备](https://prodclub.vip/before-purchase): 免费账号、已有订阅、iOS 宽限期和升级条件
+- [开通流程](https://prodclub.vip/how-it-works): 选择商品付款，在原订单提交一次 Session，回到本人账号核对；最快 1 分钟到账
+- [品牌官网代充值入口](https://prodclub.ai/r/NJJU47?src=pcvip): 前往充值站，付款前核对优惠码与实付金额
+
+## 订单与帮助
+
+- [订单与售后](https://prodclub.vip/help): 订单找回、未开通处理与售后入口
+- [开通后核对](https://prodclub.vip/verify-subscription): 核对订阅状态及未生效处理
+- [购买指南](https://prodclub.vip/guides): 购买前后操作指南目录
+- [联系与支持](https://prodclub.vip/contact): 联系方式和订单问题处理
+
+## 平台信息
+
+- [关于 ProdClub](https://prodclub.vip/about): 平台与服务主体说明
+- [隐私说明](https://prodclub.vip/privacy): 本站统计和数据处理边界
+- [使用说明](https://prodclub.vip/terms): 服务适用范围、订单与售后条款
