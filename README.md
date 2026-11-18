@@ -4,7 +4,9 @@
 
 # ProdClub｜ChatGPT Plus/Pro国内代充值、ProdClub优惠码与常见问题
 
-<p>ProdClub 提供 ChatGPT Plus / Pro 第三方代充，支付宝/USDT付款，开通到你自己的账号，不换号、不共享。<br>选购商品并付款后，在原订单提交一次 Session，系统自动开通，最快 1 分钟到账。</p>
+<p>ProdClub 提供 ChatGPT Plus / Pro 官方正规渠道的第三方代充值服务，支付宝/USDT付款，开通到你自己的账号。</p>
+
+<p>选购套餐并付款后，在原订单提交一次 Session，系统自动开通，最快 1 分钟到账，质保30天。</p>
 
 **[查看套餐与下单](https://prodclub.ai/r/NJJU47?src=pcgithub)** · [优惠码怎么用](#plans) · [先看开通条件](#account-check) · [下单步骤](#purchase) · [订单与售后](#support) · [常见问题](#faq)
 
@@ -16,11 +18,11 @@
 
 ## ProdClub 是什么
 
-ProdClub 是一个专注于中文用户的 ChatGPT Plus / Pro 代充平台，已稳定运营 1 年多。
+ProdClub 是服务于中文用户的 ChatGPT Plus / Pro 代充值平台，隶属于SINGAPORE TELECOMMUNICATIONS LIMITED(CRN: 199201624D)
 
 针对没有海外信用卡、礼品卡流程繁琐、渠道真假难辨等订阅支付问题，提供支付宝直接付款、正规渠道充值到本人账号的服务。
 
-自上线以来，ProdClub 已累计服务超过 **20,000 名用户**，平均到账时间约 **1 分钟**，客服 **7×16 小时真人在线**。
+稳定运营2年多以来，ProdClub 已累计服务超过 **200,000 名用户**，平均到账时间约 **1 分钟**，客服 **7×16 小时真人在线**。
 
 你使用自己的 ChatGPT 账号下单，通过支付宝付款，再按订单提示提交一次 Session，由系统自动开通订阅，不换号、不共享。
 
