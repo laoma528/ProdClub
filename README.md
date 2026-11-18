@@ -8,7 +8,7 @@
 
 <p>选购套餐并付款后，在原订单提交一次 Session，系统自动开通，最快 1 分钟到账，质保30天。</p>
 
-**[查看套餐与下单](https://prodclub.ai/r/NJJU47?src=pcgithub)** · [优惠码怎么用](#plans) · [先看开通条件](#account-check) · [下单步骤](#purchase) · [订单与售后](#support) · [常见问题](#faq)
+**[查看套餐与下单](https://prodclub.ai/r/NJJU47?src=pcgithub)** · [优惠码怎么用](#plans) · [先看开通条件](#account-check) · [Plus 和 Pro 怎么选](#choose-plan) · [下单步骤](#purchase) · [订单与售后](#support) · [常见问题](#faq)
 
 <p><strong>优惠码：<code>NJJU47</code></strong></p>
 
@@ -36,13 +36,6 @@ ProdClub 是服务于中文用户的 ChatGPT Plus / Pro 代充值平台，隶属
 
 付款前核对订单中的优惠码、实际优惠和最终应付金额。
 
-### 选择需要的套餐
-
-| 你要购买的服务 | 下单前重点核对 |
-| --- | --- |
-| ChatGPT Plus | 确认套餐为本人账号开通、订阅周期符合需要，并检查账号当前没有有效订阅。 |
-| ChatGPT Pro | 确认具体档位、周期及账号资格；已有 Plus 或 Pro 的情况，先看下方条件。 |
-
 <a id="account-check"></a>
 ## 先确认账号能否开通
 
@@ -62,6 +55,19 @@ ProdClub 是服务于中文用户的 ChatGPT Plus / Pro 代充值平台，隶属
 菲区 Plus 升 Pro 的差价退款需要联系 ProdClub 客服处理。不要把它理解为自动退款；具体金额和办理方式向 ProdClub 客服确认。
 
 不确定自己的原付费地区、订阅状态或 Pro 档位时，先通过商品页的账号检测工具确认。
+
+<a id="choose-plan"></a>
+## Plus 和 Pro 怎么选
+
+大多数人选 Plus 就够了。Pro 价格是 Plus 的几倍，买的主要是更多用量，不是回答聪明几倍。判断标准就一个：你会不会经常撞上 Plus 的用量上限。
+
+| 你的用法 | 选哪个 |
+| --- | --- |
+| 日常聊天、写作、查资料，偶尔写代码、做图，没怎么遇到过用量上限 | Plus |
+| 每周都会撞上限；每天长时间用 Codex 写代码、处理长文档，或做深度研究 | Pro 100 |
+| Pro 100 的额度还不够，Codex 或 Agent 基本全天在跑 | Pro 200；Pro 500 只适合极重度使用，一般人用不上 |
+
+没用过付费版、不确定自己用量的，先买一个月 Plus。用一周就知道撞不撞上限，不够再考虑升 Pro，别一上来就买最高档。
 
 <a id="purchase"></a>
 ## ProdClub 怎么用：5 步完成下单与开通
