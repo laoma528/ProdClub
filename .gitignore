@@ -3,6 +3,11 @@
 !/.gitignore
 !/.gitattributes
 !/.public-files
+!/.github/
+!/.github/workflows/
+!/.github/workflows/sync-content-date.yml
+!/scripts/
+!/scripts/update-content-dates.py
 !/README.md
 !/assets/
 !/assets/prodclub-logo.svg
