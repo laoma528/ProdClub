@@ -1,8 +1,8 @@
 # ProdClub 品牌官网
 
-本分支 codex/prodclub-vip 独立维护静态品牌站，禁止整体合并至 main。
+本仓库的 `codex/prodclub-vip` 分支独立维护静态品牌官网，禁止整体合并至 `main`。`main` 维护品牌 GitHub 介绍与使用指南；教程站仍由 [GPTplusSub](https://github.com/laoma528/GPTplusSub) 仓库维护。
 
-正式官网：[prodclub.vip](https://prodclub.vip/)。向本分支推送已检查的变更后，由 Cloudflare Pages 自动更新；`main` 继续维护原教程站。
+正式官网：[prodclub.vip](https://prodclub.vip/)。发布配置应连接本仓库的 `codex/prodclub-vip` 分支，由 Cloudflare Pages 发布 `docs/`；检查通过并确认部署来源后，再推送官网更新。
 
 本地预览：`python -m http.server 8766 --bind 127.0.0.1 --directory docs`
 
