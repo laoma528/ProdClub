@@ -10,7 +10,7 @@
 
 **[查看套餐与下单](https://prodclub.ai/r/NJJU47?src=pcgithub)** · [优惠码怎么用](#plans) · [先看开通条件](#account-check) · [Plus 和 Pro 怎么选](#choose-plan) · [下单步骤](#purchase) · [订单与售后](#support) · [常见问题](#faq)
 
-<p><strong>优惠码：<code>NJJU47</code></strong></p>
+<p><strong>VIP优惠码：<code>NJJU47</code></strong></p>
 
 </div>
 
@@ -29,7 +29,7 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 <a id="plans"></a>
 ## ProdClub 优惠码 NJJU47 怎么用
 
-**优惠码：`NJJU47`。** 根据你打开网站的方式使用：
+**VIP优惠码：`NJJU47`。** 根据你打开网站的方式使用：
 
 - 【推荐】直接进入：**[查看当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)**。
 - 已从搜索、书签或其他页面进入：下单时手动填写优惠码 **`NJJU47`**。
