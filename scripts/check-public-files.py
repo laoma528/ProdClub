@@ -23,8 +23,10 @@ PUBLIC_ROOT_FILES = {
     ".gitattributes", ".gitignore", MANIFEST, "README.md", "CONTRIBUTING.md",
     ".githooks/pre-commit", ".githooks/pre-push",
     ".github/workflows/public-content-check.yml",
+    ".github/workflows/indexnow-after-deploy.yml",
     "scripts/check-public-files.py", "scripts/check-referral-links.py",
     "scripts/seo-geo/submit-indexnow.py",
+    "scripts/seo-geo/indexnow-after-deploy.py",
     "scripts/update-content-dates.py",
 }
 REQUIRED_PUBLIC_FILES = {

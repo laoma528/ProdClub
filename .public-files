@@ -3,6 +3,7 @@
 .githooks/pre-commit
 .githooks/pre-push
 .github/workflows/public-content-check.yml
+.github/workflows/indexnow-after-deploy.yml
 .gitignore
 .public-files
 CONTRIBUTING.md
@@ -10,6 +11,7 @@ README.md
 scripts/check-public-files.py
 scripts/check-referral-links.py
 scripts/seo-geo/submit-indexnow.py
+scripts/seo-geo/indexnow-after-deploy.py
 scripts/update-content-dates.py
 docs/404.html
 docs/_headers

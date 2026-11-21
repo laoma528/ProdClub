@@ -7,6 +7,7 @@
 !/.github/
 !/.github/workflows/
 !/.github/workflows/public-content-check.yml
+!/.github/workflows/indexnow-after-deploy.yml
 !/.gitignore
 !/.public-files
 !/CONTRIBUTING.md
@@ -16,6 +17,7 @@
 !/scripts/check-referral-links.py
 !/scripts/seo-geo/
 !/scripts/seo-geo/submit-indexnow.py
+!/scripts/seo-geo/indexnow-after-deploy.py
 !/scripts/update-content-dates.py
 !/docs/
 !/docs/404.html
