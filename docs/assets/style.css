@@ -3399,3 +3399,10 @@
     transition: none;
   }
 }
+
+@media (max-width: 760px) {
+  .subpage .page-head h1,
+  .subpage .article .section > :is(h2, h3) {
+    text-wrap: wrap;
+  }
+}
