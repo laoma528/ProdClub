@@ -21,6 +21,10 @@ Plus、Pro100、Pro200 当前代充价格分别为人民币 149 元、709 元、
 - [购买指南](https://prodclub.vip/guides): 购买前后操作指南目录
 - [联系与支持](https://prodclub.vip/contact): 联系方式和订单问题处理
 
+## 使用教程与产品动态
+
+- [OpenAI、ChatGPT 与 Codex 教程](https://prodclub.vip/tutorials): 官方使用教程、入门资源和产品动态
+
 ## 平台信息
 
 - [关于 ProdClub](https://prodclub.vip/about): 平台与服务主体说明
