@@ -36,7 +36,7 @@ ProdClub 是提供 ChatGPT Plus / Pro 订阅代充值的第三方平台，隶属
 
 - [OpenAI、ChatGPT 与 Codex 教程](https://prodclub.vip/tutorials): 官方使用教程、入门资源和产品动态
 
-- [没有信用卡怎么开通 ChatGPT Plus](https://prodclub.vip/tutorials/no-credit-card-chatgpt-plus): 官网付款被拒的原因、支付宝代充到自己账号的流程与 App 内购买等替代路径
+- [没有海外信用卡怎么开通 ChatGPT Plus](https://prodclub.vip/tutorials/no-credit-card-chatgpt-plus): 官网付款被拒的原因、支付宝代充到自己账号的流程与 App 内购买等替代路径
 - [ChatGPT Plus 和 Pro 怎么选](https://prodclub.vip/tutorials/plus-vs-pro): 按用量和推理需求选档，含 Pro 档位对应关系说明
 - [ChatGPT Plus 代充安全吗](https://prodclub.vip/tutorials/is-topup-safe): 代充、成品号与共享号的区别，危险信号与靠谱标准
 
