@@ -1309,6 +1309,17 @@
   .faq-answer a {
     color: var(--accent);
   }
+  .article :is(p, li, td) a:not(.button), .faq-answer a {
+    text-decoration: underline;
+    text-decoration-color: color-mix(in oklab, var(--accent) 45%, transparent);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+  }
+  .article :is(p, li, td) a:not(.button):hover, .faq-answer a:hover {
+    color: color-mix(in oklab, var(--accent) 85%, var(--ink));
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 2px;
+  }
   .closing {
     padding: 88px 0 92px;
     text-align: center;
