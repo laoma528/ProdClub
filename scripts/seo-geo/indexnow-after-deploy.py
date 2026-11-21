@@ -20,8 +20,8 @@ ROOT = INDEXNOW["ROOT"]
 REPOSITORY = "laoma528/ProdClub"
 BRANCH = "codex/prodclub-vip"
 WORKFLOW = "indexnow-after-deploy.yml"
-# Last production snapshot before the first three independent tutorial articles.
-INITIAL_BASE = "fbf6fe84a590150890a308cdeaf7bf32c23cb6c5"
+# Production articles already notified before this workflow was installed.
+INITIAL_BASE = "1208ca13e78109836f756f1036c80ea20416c221"
 
 
 def git(*args):
