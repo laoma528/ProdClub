@@ -1532,6 +1532,13 @@
     max-inline-size: 46rem;
   }
   @media (min-width: 761px) {
+    /* Cap the two-column layout so tutorial prose can use the full card interior. */
+    .subpage:has(> .page-head .crumb a[href="/tutorials"]) {
+      max-width: 66rem;
+    }
+    .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article :is(.section > p, .section > ul, .section > ol, .section > blockquote, .faq-answer p) {
+      max-inline-size: none;
+    }
     .subpage-layout > .article-nav {
       padding-inline-end: 20px;
       border-inline-end: 1px solid var(--line);
@@ -3404,5 +3411,108 @@
   .subpage .page-head h1,
   .subpage .article .section > :is(h2, h3) {
     text-wrap: wrap;
+  }
+}
+
+/* Tutorial detail pages share the breadcrumb link back to the tutorial index. */
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .page-head {
+  padding-block: 32px 30px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .crumb {
+  margin-bottom: 18px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .page-head h1 {
+  font-size: clamp(2rem, 3.5vw, 2.625rem);
+  line-height: 1.3;
+  margin-bottom: 16px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .lead {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .subpage-layout {
+  margin-top: 28px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) :is(.lead, .article :is(p, li, blockquote)) {
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section > ol {
+  list-style: decimal outside;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section > ul {
+  list-style: disc outside;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .article li::marker {
+  color: var(--accent);
+  font-weight: 600;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section > :is(p, ul, ol) + h3 {
+  margin-top: 1.35em;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .section > :is(ol, ul, .table-wrap) + p {
+  margin-top: 16px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .table-wrap:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+.subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section:has(> .table-wrap) {
+  container-type: inline-size;
+}
+@container (width < 520px) {
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .table-wrap::before {
+    content: "左右滑动查看完整表格";
+    position: sticky;
+    inset-inline-start: 0;
+    display: block;
+    width: fit-content;
+    padding-bottom: 8px;
+    color: var(--muted);
+    font-size: .8125rem;
+  }
+}
+@media (max-width: 760px) {
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .page-head {
+    padding-block: 18px 22px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .crumb {
+    margin-bottom: 14px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .page-head h1 {
+    font-size: clamp(1.625rem, 7.1vw, 1.875rem);
+    line-height: 1.35;
+    margin-bottom: 14px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .lead {
+    font-size: 1rem;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .subpage-layout {
+    margin-top: 16px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 14px;
+    row-gap: 0;
+    padding-bottom: 18px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article-nav .eyebrow {
+    grid-column: 1 / -1;
+    margin-bottom: 4px;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article-nav a {
+    display: flex;
+    align-items: center;
+    min-height: 40px;
+    font-size: .8125rem;
+    line-height: 1.45;
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section {
+    padding-inline: clamp(1.125rem, 5vw, 1.5rem);
+  }
+  .subpage:has(> .page-head .crumb a[href="/tutorials"]) .article .section > h2 {
+    font-size: clamp(1.25rem, 5.5vw, 1.375rem);
+    margin-bottom: 16px;
   }
 }
