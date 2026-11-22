@@ -1309,14 +1309,14 @@
   .faq-answer a {
     color: var(--accent);
   }
-  .article :is(p, li, td) a:not(.button), .faq-answer a {
+  .article :is(p, li, td) a:not(.button), .faq-answer a, .subpage .page-head .lead a {
     color: var(--accent);
     text-decoration: underline;
     text-decoration-color: color-mix(in oklab, var(--accent) 45%, transparent);
     text-decoration-thickness: 1px;
     text-underline-offset: 4px;
   }
-  .article :is(p, li, td) a:not(.button):hover, .faq-answer a:hover {
+  .article :is(p, li, td) a:not(.button):hover, .faq-answer a:hover, .subpage .page-head .lead a:hover {
     color: color-mix(in oklab, var(--accent) 85%, var(--ink));
     text-decoration-color: var(--accent);
     text-decoration-thickness: 2px;
@@ -1492,7 +1492,7 @@
     margin: 0 0 24px;
   }
   .page-head .lead {
-    max-width: 44rem;
+    max-width: 52rem;
     margin: 0;
   }
   .subpage-layout {
