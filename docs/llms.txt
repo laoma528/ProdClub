@@ -42,6 +42,7 @@ ProdClub 是提供 ChatGPT Plus / Pro 订阅代充值的第三方平台，隶属
 - [ChatGPT Space 向 Plus 用户开放](https://prodclub.vip/tutorials/chatgpt-space-plus-rollout): 产品动态，OpenAI 2026 年 11 月 20 日起向全球 Plus 用户开放 Space，取代侧边栏资料库
 - [GPT-6.2 进聊天 tab：Plus 和 Pro 用户陆续能用上](https://prodclub.vip/tutorials/gpt-6-2-chat-tab): 产品动态，OpenAI 2026 年 11 月 23 日起向 Plus、Pro、Business 和 Enterprise 用户的聊天 tab 分批推出 GPT-6.2
 - [GPT-5.6 定在 12 月 23 日退役：Chat、Work 和 Codex 都受影响](https://prodclub.vip/tutorials/gpt-5-6-deprecation-dec-23): 产品动态，OpenAI 确认 GPT-5.6 Sol 与 Terra 于 2026 年 12 月 23 日从 Chat、Work 和 Codex 下线
+- [Chat 和 Work 开始合并：Pro 用户先试，用量额度 12 月起打通](https://prodclub.vip/tutorials/chat-work-combined-pro-rollout): 产品动态，OpenAI 2026 年 11 月 24 日起向一小批 Pro 用户推出合并版 Chat 和 Work 体验，12 月起 Plus、Pro、Business 用量额度在 ChatGPT 和 Codex 之间共用
 
 ## 平台信息
 
