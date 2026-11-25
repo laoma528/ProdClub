@@ -32,7 +32,7 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 **VIP优惠码：`NJJU47`。** 根据你打开网站的方式使用：
 
 - 【推荐】直接进入：**[查看当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)**。
-- 已从搜索、书签或其他页面进入：下单时手动填写优惠码 **`NJJU47`**。
+- 已从搜索、书签或其他页面进入：下单时手动填写 VIP 优惠码 **`NJJU47`**。
 
 付款前核对订单中的优惠码、实际优惠和最终应付金额。
 
@@ -86,7 +86,7 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 从 **[本页购买入口](https://prodclub.ai/r/NJJU47?src=pcgithub)** 进入 ProdClub，选择需要的 Plus 或 Pro 套餐。核对档位、账号要求和售后条款。
 
-已经从其他入口打开网站的，也可以在下单时手动填写ProdClub优惠码 **`NJJU47`**，核对订单优惠和应付金额后再付款。
+已经从其他入口打开网站的，也可以在下单时手动填写 ProdClub VIP 优惠码 **`NJJU47`**，核对订单优惠和应付金额后再付款。
 
 ### 3. 填写联系邮箱，用支付宝付款
 
@@ -301,7 +301,7 @@ ProdClub 是独立第三方代充服务，不是 OpenAI 官方。“官方渠道
 
 ---
 
-**[查看 ProdClub 当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)** · 优惠码 **`NJJU47`**
+**[查看 ProdClub 当前套餐与优惠](https://prodclub.ai/r/NJJU47?src=pcgithub)** · VIP优惠码 **`NJJU47`**
 
 <!-- content-updated:start -->
 内容更新：2026年11月24日
