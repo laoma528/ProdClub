@@ -1,8 +1,13 @@
 # Reviewed public files. Review every new path before publishing.
 .gitattributes
-.github/workflows/sync-content-date.yml
 .gitignore
 .public-files
 README.md
 assets/prodclub-logo.svg
+assets/screenshots/account-eligibility.png
+assets/screenshots/chatgpt-account.png
+assets/screenshots/order-completed.png
+assets/screenshots/order-payment.png
+assets/screenshots/plans.png
+assets/screenshots/submit-session.png
 scripts/update-content-dates.py

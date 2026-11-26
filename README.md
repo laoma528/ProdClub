@@ -36,10 +36,6 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 付款前核对订单中的优惠码、实际优惠和最终应付金额。
 
-<!-- 截图位 1（周末上传后去掉本行与下方注释标记启用）：充值站套餐页，脱敏，不要出现真实订单信息
-<img src="assets/screenshots/plans.png" alt="ProdClub 充值站套餐页：Plus 与 Pro 各档报价" width="720">
--->
-
 <a id="account-check"></a>
 ## 先确认账号能否开通
 
@@ -80,11 +76,17 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 登录 [ChatGPT](https://chatgpt.com/)，在设置中确认账号邮箱、登录方式和当前套餐。后续获取 Session、查看订阅时，都使用这个账号。
 
-已有订阅或刚结束 iOS 内购的用户，先按上方条件判断。不要仅凭页面显示 Free 就直接付款。
+![在 ChatGPT 账号菜单确认邮箱和当前套餐](assets/screenshots/chatgpt-account.png)
+
+已有订阅或刚结束 iOS 内购的用户，请到「账号检测」页面确认是否可以开通。
+
+![ProdClub 账号检测页面显示可以开通](assets/screenshots/account-eligibility.png)
 
 ### 2. 选择套餐并使用优惠码
 
 从 **[本页购买入口](https://prodclub.ai/r/NJJU47?src=pcgithub)** 进入 ProdClub，选择需要的 Plus 或 Pro 套餐。核对档位、账号要求和售后条款。
+
+![ProdClub 资源大厅的 Plus 和 Pro 套餐，图中价格仅作示意](assets/screenshots/plans.png)
 
 已经从其他入口打开网站的，也可以在下单时手动填写 ProdClub VIP 优惠码 **`NJJU47`**，核对订单优惠和应付金额后再付款。
 
@@ -92,33 +94,31 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 ProdClub 支持填写邮箱直接下单，无需另外注册 ProdClub 账号。请使用能正常收信的邮箱并检查拼写，订单链接会发送到该邮箱。
 
-按订单页提示完成支付宝付款，然后回到原订单等待确认。部分套餐也支持 USDT（BSC / TRC20 网络，以报价页「付款方式」为准）：转账金额必须与页面显示完全一致，确认收款后订单自动进入下一步，通常几十秒。保存订单号与付款凭证；扣款后订单状态未更新时，先核对原订单，避免重复付款。
+![ProdClub 下单页面的联系邮箱、付款方式和优惠码输入框](assets/screenshots/order-payment.png)
 
-<!-- 截图位 2（周末上传后启用）：订单页与支付宝付款页，订单号、邮箱必须打码
-<img src="assets/screenshots/order-payment.png" alt="ProdClub 订单页与支付宝付款" width="720">
--->
+按订单页提示完成支付宝付款，然后回到原订单等待确认。
+
+部分套餐也支持 USDT（BSC / TRC20 网络，以报价页「付款方式」为准）：转账金额必须与页面显示完全一致，确认收款后订单自动进入下一步，通常几十秒。
+
+保存订单号与付款凭证；扣款后订单状态未更新时，先核对原订单，避免重复付款。
 
 ### 4. 在对应订单页提交一次 Session
 
 Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session 获取与报错教程](https://gpt.528.im/session.html)，确认登录的是要升级的账号，再把完整内容直接提交到对应订单页。
 
-**不要把 Session、密码或验证码发到 GitHub Issue、群聊、ProdClub 客服私聊或截图中。** 订单链接也不要转发给无关的人。
+![订单页的 Session 输入框和提交并开通按钮，内容为脱敏示例](assets/screenshots/submit-session.png)
 
-<!-- 截图位 3（周末上传后启用）：订单页提交 Session 的位置示意，Session 内容必须整段打码，只留输入框位置
-<img src="assets/screenshots/submit-session.png" alt="在订单页提交 Session 的位置" width="720">
--->
+**不要把 Session、密码或验证码发到 GitHub Issue、群聊、ProdClub 客服私聊或截图中。** 订单链接也不要转发给无关的人。
 
 ### 5. 分别确认订单和账号的开通结果
 
 留在原订单查看处理进度。需要安全验证、重新提交或转人工时，按该订单提示继续操作。
 
+![ProdClub 订单页显示已开通、已完成](assets/screenshots/order-completed.png)
+
 订单完成后，回到同一个 ChatGPT 账号，刷新并查看套餐。若仍显示免费版，先核对邮箱和登录方式，再重新登录检查；仍有问题时，带订单号联系 ProdClub 客服。
 
 需要更详细的逐步说明，可以查看 [支付宝代充完整教程](https://gpt.528.im/alipay-plus.html)。
-
-<!-- 截图位 4（周末上传后启用）：订单完成页与账号订阅状态，账号邮箱、订单号必须打码
-<img src="assets/screenshots/order-completed.png" alt="订单完成与 ChatGPT 账号订阅状态" width="720">
--->
 
 <a id="commitments"></a>
 ## 服务承诺
