@@ -76,7 +76,7 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 登录 [ChatGPT](https://chatgpt.com/)，在设置中确认账号邮箱、登录方式和当前套餐。后续获取 Session、查看订阅时，都使用这个账号。
 
-![在 ChatGPT 账号菜单确认邮箱和当前套餐](assets/screenshots/chatgpt-account.png)
+![在 ChatGPT 账号菜单确认邮箱和当前套餐](assets/screenshots/chatgpt-account-2026-11-27.png)
 
 已有订阅或刚结束 iOS 内购的用户，请到「账号检测」页面确认是否可以开通。
 
