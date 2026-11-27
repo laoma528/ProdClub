@@ -96,7 +96,7 @@ ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶�
 
 ProdClub 支持填写邮箱直接下单，无需另外注册 ProdClub 账号。请使用能正常收信的邮箱并检查拼写，订单链接会发送到该邮箱。
 
-![ProdClub 下单页面的联系邮箱、付款方式和优惠码输入框](assets/screenshots/order-payment.png)
+![ProdClub 下单页面的联系邮箱、付款方式和优惠码输入框](assets/screenshots/order-payment-2026-11-27.png)
 
 按订单页提示完成支付宝付款，然后回到原订单等待确认。
 
