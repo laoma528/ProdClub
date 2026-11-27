@@ -3688,3 +3688,11 @@
     transform: translateY(-2px);
   }
 }
+
+.plan-price .price-period { font: 500 .875rem/1.4 var(--sans); margin-inline-start: .25rem; white-space: nowrap; }
+
+@media (max-width: 760px) {
+  .subpage .article :is(p, li, blockquote) {
+    text-wrap: wrap;
+  }
+}
