@@ -20,6 +20,10 @@
 
 ProdClub是ChatGPT 等AI工具会员订阅服务的第三方代充平台，隶属于SINGAPORE TELECOMMUNICATIONS LIMITED(CRN: 199201624D)，主要面向想在国内便捷使用 ChatGPT付费功能的用户，定位是提供“不用折腾”的AI 资源聚合服务。
 
+![充值站首页横幅](assets/screenshots/prodclub-homepage.jpg)
+
+*ProdClub 充值站首页截图*
+
 针对没有海外信用卡、礼品卡流程繁琐、渠道真假难辨等订阅支付问题，提供支付宝直接付款、正规渠道充值到本人账号的服务。
 
 稳定运营2年多以来，ProdClub 已累计服务超过 **98,000 位用户**，最快 **1 分钟**到账，客服 **7×16 小时真人在线**。
