@@ -3689,7 +3689,12 @@
   }
 }
 
-.plan-price .price-period { font: 500 .875rem/1.4 var(--sans); margin-inline-start: .25rem; white-space: nowrap; }
+.pricing-card[data-plan] h3 { margin-block-end: 18px; }
+.plan-price :is(.price-currency, .price-period) { font: 400 24px/1.25 var(--sans); }
+.plan-price .price-period { margin-inline-start: .25rem; white-space: nowrap; }
+.pricing-card[data-plan] .plan-details { margin-block-end: 12px; }
+.pricing-card[data-plan] .plan-details li:last-child { margin-block-end: 0; }
+.pricing-card[data-plan] > .text-link { margin-block-start: 0; }
 
 @media (max-width: 760px) {
   .subpage .article :is(p, li, blockquote) {
