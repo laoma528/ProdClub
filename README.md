@@ -116,7 +116,7 @@ Session 是 ChatGPT 的敏感登录凭据。请先阅读订单提示和 [Session
 
 留在原订单查看处理进度。需要安全验证、重新提交或转人工时，按该订单提示继续操作。
 
-![ProdClub 订单页显示已开通、已完成](assets/screenshots/order-completed.png)
+![ProdClub 订单页显示已开通、已完成](assets/screenshots/order-completed-2026-11-27.png)
 
 订单完成后，回到同一个 ChatGPT 账号，刷新并查看套餐。若仍显示免费版，先核对邮箱和登录方式，再重新登录检查；仍有问题时，带订单号联系 ProdClub 客服。
 
